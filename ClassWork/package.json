@@ -1,0 +1,16 @@
+{
+  "name": "classwork",
+  "version": "1.0.0",
+  "description": "",
+  "main": "arithmetic_function.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "",
+  "devDependencies": {
+    "jest": "^30.4.2"
+  }
+}
